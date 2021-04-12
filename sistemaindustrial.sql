@@ -215,7 +215,7 @@ CREATE TABLE `tbl_usuarios` (
 --
 
 INSERT INTO `tbl_usuarios` (`pk_id_codigo`, `cad_usu_cpf`, `cad_usu_nome`, `cad_usu_email`, `cad_usu_telefone`, `cad_usu_dataNasc`, `cad_usu_login`, `cad_usu_senha`) VALUES
-(1, '464.804.158-50', 'Vinicius Oliveira Alves', 'vini.alv15@hotmail.com', '(19)99376-6542', '1998-05-08', 'vinicius', 'vini0805');
+(1, '999.999.999-99', 'Vinicius Oliveira Alves', 'vini.alv15@hotmail.com', '(99)99999-9999', '1998-05-08', 'vinicius', 'vini0805');
 
 --
 -- Índices para tabelas despejadas
